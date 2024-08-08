@@ -1,0 +1,1 @@
+Password must be strong so that hackers can not hack them easily. The following example shows how to check the password strength of the user input password in ReactJS. We will use the validator module to achieve this functionality. We will call the isStrongPassword function and pass the conditions as its parameters.
